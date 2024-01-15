@@ -21,3 +21,23 @@ bun dev
 ## [shadcn - darkmode](https://ui.shadcn.com/docs/dark-mode/next)
 
 ## [shadcn - dropdown menu](https://ui.shadcn.com/docs/components/dropdown-menu)
+
+## [shadcn - card](https://ui.shadcn.com/docs/components/card)
+
+## [@tailwindcss/typography](https://tailwindcss.com/docs/typography-plugin)
+
+### [sanity](https://www.sanity.io/docs/create-a-sanity-project)
+
+```
+cd sanity
+```
+
+```
+npm run dev
+```
+
+### [next-sanity](https://www.npmjs.com/package/next-sanity)
+
+### [@sanity/image-url](https://www.sanity.io/docs/image-url)
+
+### [@portabletext/react](https://www.sanity.io/docs/portable-text-to-react)
